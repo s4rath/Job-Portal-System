@@ -71,6 +71,15 @@ To get started with the project, you will need to install XAMPP or a similar web
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/83325357/231425190-a09a46a9-cff8-4592-86b7-6fe1e45397fb.png)
 
+# Contributions
 
+Contributions to the project are welcome. If you find any bugs or have suggestions for improvement, feel free to create a pull request or issue on the project's GitHub repository.
 
+# Acknowledgments
+
+- Font Awesome
+- ColorLib
+- jQuery
+- PHP
+- MySQL
  
